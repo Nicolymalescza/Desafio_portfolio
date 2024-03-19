@@ -1,0 +1,54 @@
+body{
+    background-color: #141414;
+    margin: 20%;
+}
+
+#centro{
+    background-color:#1F1F1F;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    text-align:center;
+    border-radius: 10px;
+}
+
+img{
+ width: 30%;
+ border-radius: 50%;
+ margin-top: 10%;
+}
+
+#centro button{
+    background-color: #696969;
+    color: white;
+    width: 80%;/*largura*/
+    height: 50px;/*altura*/
+    border:none;
+    border-radius: 8px;
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+}
+
+#centro button:hover{
+    background-color: bisque;
+    cursor: pointer;
+}
+
+p{
+color:white;
+
+
+}
+
+
+#cidade{
+    color:yellowgreen;
+    margin-bottom: 7%;
+}
+
+
+li{
+    list-style:none;
+    
+    
+}
