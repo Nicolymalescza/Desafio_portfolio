@@ -30,25 +30,24 @@ img{
 }
 
 #centro button:hover{
-    background-color: bisque;
+    background-color: yellowgreen;
     cursor: pointer;
 }
 
 p{
 color:white;
-
-
+font-family: sans-serif;
+font-weight: bold;
+font-size: 18px;
 }
 
 
 #cidade{
     color:yellowgreen;
     margin-bottom: 7%;
+    font-size: 18px;
 }
 
-
-li{
-    list-style:none;
-    
-    
+#nome{
+    font-size: 26px;
 }
